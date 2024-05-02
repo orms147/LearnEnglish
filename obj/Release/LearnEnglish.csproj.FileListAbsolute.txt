@@ -1,0 +1,16 @@
+E:\CodeCSharp\LearnEnglish\LearnEnglish\bin\Release\LearnEnglish.exe.config
+E:\CodeCSharp\LearnEnglish\LearnEnglish\bin\Release\LearnEnglish.exe
+E:\CodeCSharp\LearnEnglish\LearnEnglish\bin\Release\LearnEnglish.pdb
+E:\CodeCSharp\LearnEnglish\LearnEnglish\obj\Release\LearnEnglish.csprojAssemblyReference.cache
+E:\CodeCSharp\LearnEnglish\LearnEnglish\obj\Release\Interop.WMPLib.dll
+E:\CodeCSharp\LearnEnglish\LearnEnglish\obj\Release\LearnEnglish.csproj.ResolveComReference.cache
+E:\CodeCSharp\LearnEnglish\LearnEnglish\obj\Release\LearnEnglish.MainWindow.resources
+E:\CodeCSharp\LearnEnglish\LearnEnglish\obj\Release\LearnEnglish.Properties.Resources.resources
+E:\CodeCSharp\LearnEnglish\LearnEnglish\obj\Release\LearnEnglish.Source.SubWindows.AddNewLesson.resources
+E:\CodeCSharp\LearnEnglish\LearnEnglish\obj\Release\LearnEnglish.Source.SubWindows.AddNewVolume.resources
+E:\CodeCSharp\LearnEnglish\LearnEnglish\obj\Release\LearnEnglish.Source.SubWindows.AddNewWords.resources
+E:\CodeCSharp\LearnEnglish\LearnEnglish\obj\Release\LearnEnglish.Source.SubWindows.PlayPronunciationButton.resources
+E:\CodeCSharp\LearnEnglish\LearnEnglish\obj\Release\LearnEnglish.csproj.GenerateResource.cache
+E:\CodeCSharp\LearnEnglish\LearnEnglish\obj\Release\LearnEnglish.csproj.CoreCompileInputs.cache
+E:\CodeCSharp\LearnEnglish\LearnEnglish\obj\Release\LearnEnglish.exe
+E:\CodeCSharp\LearnEnglish\LearnEnglish\obj\Release\LearnEnglish.pdb
